@@ -1,0 +1,5 @@
+{
+  "name": "Gemini SEO Assistant",
+  "description": "A simplified SEO assistant inspired by Moz.com, leveraging the Gemini API for keyword exploration and on-page content analysis. Provides mock insights and suggestions.",
+  "requestFramePermissions": []
+}
